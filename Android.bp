@@ -1,0 +1,8 @@
+prebuilt_etc {
+    name: "permissions_com.simplemobiletools.gallery.pro.xml",
+
+    product_specific: true,
+    src: "permissions_com.simplemobiletools.gallery.pro.xml",
+    sub_dir: "permissions",
+
+}
